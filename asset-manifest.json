@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web_portfolio/static/css/main.fb96d2ec.css",
+    "main.js": "/web_portfolio/static/js/main.d0d194a6.js",
+    "static/media/heroImage.png": "/web_portfolio/static/media/heroImage.55f68f472a5e1b8c83de.png",
+    "static/media/resume.pdf": "/web_portfolio/static/media/resume.f06587adcb9a4f58ed86.pdf",
+    "static/media/python.png": "/web_portfolio/static/media/python.6bca8e4e48443621683b.png",
+    "static/media/oracle.png": "/web_portfolio/static/media/oracle.db2f24386b16d9c447c7.png",
+    "static/media/react.png": "/web_portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/web_portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/spark.png": "/web_portfolio/static/media/spark.138a6e330078e239e12c.png",
+    "static/media/github.png": "/web_portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/web_portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/web_portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/web_portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/web_portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/web_portfolio/index.html",
+    "main.fb96d2ec.css.map": "/web_portfolio/static/css/main.fb96d2ec.css.map",
+    "main.d0d194a6.js.map": "/web_portfolio/static/js/main.d0d194a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb96d2ec.css",
+    "static/js/main.d0d194a6.js"
+  ]
+}
